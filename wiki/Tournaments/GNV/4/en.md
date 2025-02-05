@@ -17,13 +17,13 @@ The **Gulano Cup \#4** (***GNV 4***) was a 1v1 double-elimination osu!mania 4K t
 | --: | :-- |
 | Registration phase | 2023-12-20/2024-01-15 |
 | Screening | 2024-01-15/2024-01-17 |
-| Qualifiers | 2022-01-26/2022-01-28 |
-| Round of 48 | 2022-02-03/2022-02-05 |
-| Round of 16 | 2022-02-10/2022-02-12 |
-| Quarterfinals | 2022-02-24/2022-02-26 |
-| Semifinals | 2022-03-03/2022-03-05 |
-| Finals | 2022-03-09/2022-03-11 |
-| Grand Finals | 2022-03-16/2022-03-18 |
+| Qualifiers | 2024-01-26/2024-01-28 |
+| Round of 48 | 2024-02-03/2024-02-05 |
+| Round of 16 | 2024-02-10/2024-02-12 |
+| Quarterfinals | 2024-02-24/2042-02-26 |
+| Semifinals | 2024-03-03/2024-03-05 |
+| Finals | 2024-03-09/2024-03-11 |
+| Grand Finals | 2024-03-16/2024-03-18 |
 
 ## Prizes
 
